@@ -17,10 +17,10 @@
 
 ## 📦 Installation
 
-Add `smsQuick` to your project using npm:
+Add `smsquick` to your project using npm:
 
 ```bash
-npm install smsQuick
+npm install smsquick
 ```
 
 ---
@@ -30,7 +30,7 @@ npm install smsQuick
 ### 1. Import the Library
 
 ```javascript
-const smsQuick = require('smsQuick');
+const smsQuick = require('smsquick');
 ```
 
 ### 2. Configure the Provider
@@ -225,4 +225,4 @@ With `**smsQuick**`, sending SMS is now simpler and faster! 🚀
 ---
 
 GitHub: [fastuptime/smsQuick](https://github.com/fastuptime/smsQuick)  
-npm: [smsQuick](https://www.npmjs.com/package/smsQuick)
+npm: [smsQuick](https://www.npmjs.com/package/smsquick)
